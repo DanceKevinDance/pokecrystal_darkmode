@@ -35,6 +35,12 @@ This is a fork of the [pokecrystal](https://github.com/pret/pokecrystal) project
 - As mentioned, this is a project focused on accessibility and making the game playable for a subset of people. I'd love anyone who's interested to be able to play it, and I think it came out pretty good, but that is the focus.
 - I cannot make a less high-contrast version (e.g. dark grey instead of black) because of the way palettes are defined in the game and the fact they're limited to 4 colors, two of those being locked to black and white. The backgrounds could be grey, but then the sprites would have either black or white boxes. 
 
+@@ My Other Projects
+
+[Pokémon Crystal Dark Mode](https://github.com/DanceKevinDance/pokecrystal_darkmode)
+	[Pokémon Super Crystal - Dark Mode](https://github.com/DanceKevinDance/Pokemon_Super_Crystal_DarkMode/releases/tag/release)
+
+[The Elder Scrolls IV: Oblivion Remastered - Dark Mode UI](https://www.nexusmods.com/oblivionremastered/mods/3317?tab=description)
 
 
 # Pokémon Crystal [![Build Status][ci-badge]][ci]
