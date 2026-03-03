@@ -38,7 +38,7 @@ This is a fork of the [pokecrystal](https://github.com/pret/pokecrystal) project
 @@ My Other Projects
 
 [Pokémon Crystal Dark Mode](https://github.com/DanceKevinDance/pokecrystal_darkmode)
-	[Pokémon Super Crystal - Dark Mode](https://github.com/DanceKevinDance/Pokemon_Super_Crystal_DarkMode/releases/tag/release)
+- [Pokémon Super Crystal - Dark Mode](https://github.com/DanceKevinDance/Pokemon_Super_Crystal_DarkMode/releases/tag/release)
 
 [The Elder Scrolls IV: Oblivion Remastered - Dark Mode UI](https://www.nexusmods.com/oblivionremastered/mods/3317?tab=description)
 
